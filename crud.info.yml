@@ -1,6 +1,6 @@
 name: Esystems CRUD
 type: module
-description: Esystems CRUD module developed by Habibu Ibrahim
+description: Esystems CRUD module developed by Nuruddeen Habib
 package: Brilliant Esystems Limited
 core_version_requirement: ^8 || ^9.4 || ^10
 
