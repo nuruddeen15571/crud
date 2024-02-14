@@ -1,0 +1,15 @@
+crud.students:
+  path: '/students'
+  defaults:
+    _form:  '\Drupal\crud\src\Form\StudentsForm'
+    _title: 'Student form'
+  requirements:
+    _permission: 'access content'
+
+# crud.students:
+#   path: '/students'
+#   defaults:
+#     _form:  'C:\xampp\htdocs\crud\modules\esystems\crud\src\Form\StudentsForm'
+#     _title: 'Student form'
+#   requirements:
+#     _permission: 'access content'
